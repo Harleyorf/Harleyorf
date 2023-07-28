@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/iharleyorf/">
     <img align="left" alt="Archit Sharma | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-<a href="https://twitter.com/Hzerofps">
+<a href="https://twitter.com/iHarleyorf">
     <img align="left" alt="Archit Sharma | Twitter" width="26px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
 <a href="mailto:harleyor27@gmail.com">
