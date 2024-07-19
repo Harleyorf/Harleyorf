@@ -1,4 +1,4 @@
- Hi &#x1F44B, I'm <a href=#>Harley</a>
+ Hi &#x1F44B;, I'm <a href=#>Harley</a>
 ----------------------------
 <a href="https://www.linkedin.com/in/iharleyorf/" target="_blank">
     <img align="left" alt="Harley | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
