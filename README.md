@@ -1,4 +1,4 @@
- Hi👋, I'm <a href=#>Harley</a>
+ Hi &#x1F44B, I'm <a href=#>Harley</a>
 ----------------------------
 <a href="https://www.linkedin.com/in/iharleyorf/" target="_blank">
     <img align="left" alt="Harley | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
@@ -13,5 +13,5 @@
 About Me 👨‍
 ----------------------------
 - 💻 Studying mechatronics engineering. I love to learn new skills and technologies. I want to help others sharing my knowledge. 
-- 🔭 I’m currently learning Frontend Web Development and improving my algorithm skills👨‍💻.
+- 🔭 I’m currently learning **Frontend Web Development** and improving my **algorithm** skills👨‍💻.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/iharleyorf/" target="_blank" rel="noopener noreferrer"> Linkedin</a>
