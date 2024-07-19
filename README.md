@@ -12,6 +12,6 @@
   
 About Me 👨‍
 ----------------------------
-- 💻 Studying mechatronics engineering. I love to learn new skills and technologies. I want to help others sharing my knowledge. 
+- 💻 Studying **mechatronics engineering**. I love to learn new skills and technologies. I want to help others sharing my knowledge. 
 - 🔭 I’m currently learning **Frontend Web Development** and improving my **algorithm** skills👨‍💻.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/iharleyorf/" target="_blank" rel="noopener noreferrer"> Linkedin</a>
