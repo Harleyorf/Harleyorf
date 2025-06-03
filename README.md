@@ -1,7 +1,8 @@
  Hi &#x1F44B;, I'm <a href=#>Harley</a>
 ----------------------------
 <a href="https://www.linkedin.com/in/iharleyorf/" target="_blank">
-    <img align="left" alt="Harley | Linkedin" width="24px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Linkedin.svg" />
+    <img align="left" alt="Harley | Linkedin" width="24px" src="![image](https://github.com/user-attachments/assets/ce6fefdd-34b0-4de4-bf4f-3d7e0dc481be)
+" />
   </a> &nbsp;&nbsp;
 <a href="https://twitter.com/iHarleyorf" target="_blank">
     <img align="left" alt="Harley | Twitter" width="26px" src="https://iarchitsharma.github.io/iArchitSharma/Assets/Twitter.svg" />
@@ -12,6 +13,6 @@
   
 About Me 👨‍
 ----------------------------
-- 💻 Studying **mechatronics engineering**. I love to learn new skills and technologies. I want to help others sharing my knowledge. 
+- 💻 Studying **mechatronics engineering** and **systems analysis and development**. I love to learn new skills and technologies. I want to help others sharing my knowledge. 
 - 🔭 I’m currently learning **Frontend Web Development** and improving my **algorithm** skills👨‍💻.
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/iharleyorf/" target="_blank" rel="noopener noreferrer"> Linkedin</a>
